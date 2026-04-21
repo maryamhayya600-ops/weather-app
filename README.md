@@ -22,11 +22,6 @@ A simple weather application built with HTML, CSS, and JavaScript using the Open
 
 ---
 
-## 📷 Preview
-(Add screenshot here)
-
----
-
 ## 🔑 API
 This project uses the OpenWeatherMap API to fetch weather data.
 
